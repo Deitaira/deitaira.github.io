@@ -1,0 +1,9 @@
+body {
+    font-size: large;
+    font-family: sans-serif;
+    line-height: 1.5;
+    background-color: beige;
+}
+.list {
+    color: darkcyan;
+}
